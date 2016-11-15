@@ -1,0 +1,10 @@
+C:\Users\Denis\documents\visual studio 2013\Projects\NotePadServer\NotePadServer\WcfService1\bin\WcfService1.dll.config
+C:\Users\Denis\documents\visual studio 2013\Projects\NotePadServer\NotePadServer\WcfService1\bin\WcfService1.dll
+C:\Users\Denis\documents\visual studio 2013\Projects\NotePadServer\NotePadServer\WcfService1\bin\WcfService1.pdb
+C:\Users\Denis\documents\visual studio 2013\Projects\NotePadServer\NotePadServer\WcfService1\bin\EntityFramework.dll
+C:\Users\Denis\documents\visual studio 2013\Projects\NotePadServer\NotePadServer\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\Denis\documents\visual studio 2013\Projects\NotePadServer\NotePadServer\WcfService1\bin\EntityFramework.xml
+C:\Users\Denis\documents\visual studio 2013\Projects\NotePadServer\NotePadServer\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\Denis\documents\visual studio 2013\Projects\NotePadServer\NotePadServer\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Denis\documents\visual studio 2013\Projects\NotePadServer\NotePadServer\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Denis\documents\visual studio 2013\Projects\NotePadServer\NotePadServer\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BlocoNotasModelStoreContainer" CdmEntityContainer="BlocoNotasEntities1">
+    <EntitySetMapping Name="TB_TEXTO">
+      <EntityTypeMapping TypeName="BlocoNotasModel.TB_TEXTO">
+        <MappingFragment StoreEntitySet="TB_TEXTO">
+          <ScalarProperty Name="DATA" ColumnName="DATA" />
+          <ScalarProperty Name="TEXTO_PK" ColumnName="TEXTO_PK" />
+          <ScalarProperty Name="TEXTO" ColumnName="TEXTO" />
+          <ScalarProperty Name="TEXTO_ID" ColumnName="TEXTO_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

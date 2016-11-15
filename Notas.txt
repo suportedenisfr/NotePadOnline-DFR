@@ -1,0 +1,21 @@
+Autor: Denis Fabiano Ribeiro
+Language: Portugues/Brazil
+
+Objetivo: Desenvolver um bloco de notas online (notepadOnline) para compartilhamento de texto na web
+Data: 13/11/2016
+Tecnologias envolvidas: 
+- WebClient: Html, Javascript, JQuery
+- NotePadServer: .Net/C#, Wcf, Linq, Json
+
+Notas:
+Ajustar Paths:
+- Scripts de Banco: Acertar o path para os arquivos: BlocoNotas.mdf e BlocoNotas_log.ldf
+- WebClient: lib.js -> Acertar as urls que fazem referência do serviço WCF
+- Projeto Server: web.config -> Acertar o valor da tag 'baseAddress='
+
+Passos:
+1) Rodar Scripts de Banco de Dados no SqlServer
+2) Registrar aplicação servidora no IIS
+3) Criar diretório virtual para pasta WebClient
+
+Dúvidas: suporte_denisfr@yahoo.com.br
